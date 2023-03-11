@@ -1,0 +1,11 @@
+WebPack
+    babel
+    scss
+    ESlint
+    2 modes:
+        dev:
+            dev server, source map, not minifited js & scss
+
+        prod:
+            minifited
+Git
